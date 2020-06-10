@@ -1,0 +1,27 @@
+:root {
+  --color-blancogris: rgb(252, 251, 250);
+}
+
+body {
+  background-color: rgb(238, 228, 218);
+  font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+    Helvetica, sans-serif;
+}
+.header-navigation-wrapper {
+  background-color: pink;
+  width: 80px;
+  height: 80px;
+}
+.header-navigation-wrapper button {
+  background-color: paleturquoise;
+  width: 35px;
+  height: 35px;
+  border: none;
+  margin-left: 22px;
+}
+#header-navigation-text {
+  background-color: coral;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+}
