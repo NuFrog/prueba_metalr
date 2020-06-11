@@ -27,14 +27,15 @@ img {
 
 .nav-wrapper nav ul li {
   float: left;
-  padding: 15px;
+  padding: 8px;
+  list-style: none;
   background: aqua;
+  margin: 0 5px;
 }
 
 .nav-wrapper nav ul li a {
   background: greenyellow;
   font-size: 15px;
   text-decoration: none;
-  list-style: none;
   text-transform: uppercase;
 }
