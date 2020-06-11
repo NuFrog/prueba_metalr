@@ -3,10 +3,38 @@
   padding: 5px;
 }
 
+header {
+  background: rgb(197, 22, 22);
+  height: 180px;
+  width: 100%;
+}
+
 .logo {
   text-align: center;
-  font-size: 90px;
-  font-weight: 900;
-  font-family: "Architects Daughter", cursive;
-  text-align: center;
+  background: rgba(0, 0, 0, 0.397);
+}
+
+img {
+  width: 400px;
+  line-height: 200px;
+}
+
+.nav-wrapper {
+  float: left;
+  background: yellow;
+  width: 100%;
+}
+
+.nav-wrapper nav ul li {
+  float: left;
+  padding: 15px;
+  background: aqua;
+}
+
+.nav-wrapper nav ul li a {
+  background: greenyellow;
+  font-size: 15px;
+  text-decoration: none;
+  list-style: none;
+  text-transform: uppercase;
 }
