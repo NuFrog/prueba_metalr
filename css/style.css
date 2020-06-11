@@ -1,0 +1,12 @@
+* {
+  border: 1px solid blue;
+  padding: 5px;
+}
+
+.logo {
+  text-align: center;
+  font-size: 90px;
+  font-weight: 900;
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+}
