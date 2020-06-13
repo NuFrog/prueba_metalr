@@ -7,17 +7,20 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 header {
-  background: blue;
-  height: 80px;
+  background: black;
+  height: 180px;
   text-align: center;
-  line-height: 80px;
+  line-height: 180px;
 }
 
 header h1 {
   font-size: 50px;
+  margin: 0px;
 }
 
 header h1 a {
   color: #ffffff;
   text-decoration: none;
+  font-family: "BioRhyme Expanded", serif;
+  letter-spacing: 10px;
 }
